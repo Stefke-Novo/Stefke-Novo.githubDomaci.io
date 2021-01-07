@@ -26,7 +26,7 @@ define( 'DB_NAME', 'wordpress_baza' );
 define( 'DB_USER', 'Stefan' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'bazaNovo10' );
+define( 'DB_PASSWORD', 'triClana' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
